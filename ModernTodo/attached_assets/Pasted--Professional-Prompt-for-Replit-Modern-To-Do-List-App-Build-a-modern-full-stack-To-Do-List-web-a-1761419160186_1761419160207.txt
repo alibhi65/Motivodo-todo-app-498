@@ -1,0 +1,90 @@
+🚀 Professional Prompt for Replit: Modern To-Do List App
+
+Build a modern full-stack To-Do List web app using React (frontend) and Node.js + Express + MongoDB (backend).
+The app should be fully responsive, aesthetically modern, and include the following features:
+
+🧩 Core Features:
+
+User Authentication
+
+Sign Up, Sign In, and Sign Out (using JWT or Firebase Auth)
+
+Password encryption (bcrypt)
+
+Each user sees only their own tasks
+
+Task Management
+
+Add new tasks with title, description, and optional due date
+
+Edit and delete tasks
+
+Mark tasks as “Complete”
+
+Move completed tasks automatically to a “Completed Tasks” section
+
+Motivational Quotes
+
+Show a new motivational quote every day
+
+Fetch quotes dynamically from an API (like zenquotes.io
+ or any other free quote API)
+
+Display it in a beautiful card at the top of the dashboard
+
+Theme Mode
+
+Dark Mode and Light Mode toggle
+
+Remember user’s preference (localStorage)
+
+Modern UI / UX
+
+Use TailwindCSS or Material-UI for styling
+
+Sleek animations using Framer Motion
+
+Sticky header with navigation
+
+Clean dashboard layout (Tasks, Completed, Profile)
+
+Bonus / Smart Features (optional but recommended)
+
+Search and filter tasks (by date or status)
+
+Add “Priority” (High, Medium, Low) tags
+
+Show progress bar of completed tasks
+
+Add profile picture and name in navbar
+
+Toast notifications (success/error)
+
+Auto-refresh quotes every 24 hours
+
+Tech Stack
+
+Frontend: React + TailwindCSS + Framer Motion
+
+Backend: Node.js + Express + MongoDB (Mongoose)
+
+Auth: JWT / Firebase Auth
+
+API Integration: Quotes API
+
+Deployment Ready: should run on Replit with one click (npm start)
+
+💡 Style Notes:
+
+Keep colors modern (shades of blue/gray or customizable themes)
+
+Use icons from Lucide or Heroicons
+
+Smooth transitions between light/dark mode
+
+Responsive for mobile and desktop
+
+🎯 Output Goal:
+
+A beautiful, functional productivity app called “Motivodo” (short for Motivational To-Do).
+User can add, manage, and complete tasks while staying motivated daily.
